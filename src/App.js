@@ -9,7 +9,6 @@ function App() {
         display="flex"
         alignItems="center"
         justifyContent="center"
-        bgColor="hsl(225, 100%, 94%)"
         bgImage="https://ik.imagekit.io/fsa8lvz/pattern-background-desktop_c1sCdWgC2.svg?updatedAt=1682615938152"
         bgPosition="top"
         bgRepeat="no-repeat"
